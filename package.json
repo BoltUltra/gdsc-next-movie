@@ -8,7 +8,9 @@
   "dependencies": {
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "iconsax-react": "^0.0.8",
+    "swiper": "^9.0.5"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
