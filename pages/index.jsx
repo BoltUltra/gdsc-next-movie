@@ -34,7 +34,7 @@ const Home = ({ movies }) => {
       <Navbar />
       <main className="w-full  text-white font-oswald">
         <div className="md:pr-96 md:mt-10 mt-5 space-y-5">
-          <h3 className="font-bold text-5xl uppercase">
+          <h3 className="font-bold nd:text-5xl text-2xl uppercase">
             {movies[currentIndex].title}
           </h3>
           <p className="text-lg font-light">{movies[currentIndex].overview}</p>
